@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Devaa7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Devaa Dharshan
 
-<!---
-Devaa7/Devaa7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+I'm a AI engineer starting my study this year. College will be decided within a month
+
+
+## Role
+
+Community Manager
+
+
+### 🔗Socials
+#### - [linkedin] (https://www.linkedin.com/in/devaa-dharshan-aa7a76279/)
+#### - [twitter](https://twitter.com/)
+#### - [Instagram](https://instagram.com/)
